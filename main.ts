@@ -29,6 +29,3 @@ input.onLogoEvent(TouchButtonEvent.Pressed, function () {
 })
 let cislo = 0
 cislo = 0
-basic.forever(function () {
-	
-})
