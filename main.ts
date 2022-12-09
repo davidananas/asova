@@ -25,7 +25,7 @@ input.onButtonPressed(Button.B, function () {
     basic.showNumber(cislo)
 })
 input.onLogoEvent(TouchButtonEvent.Pressed, function () {
-	
+    control.reset()
 })
 let cislo = 0
 cislo = 0
